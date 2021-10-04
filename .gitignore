@@ -1,1 +1,4 @@
 /TacoCloud.iml
+/target/
+~.gitignore
+.*
